@@ -1,2 +1,2 @@
 # Lotto
-A program that calculates the percentage chance of winning the lottery using web scraping
+A program that calculates the percentage chance of winning the lotto lottery using web scraping
